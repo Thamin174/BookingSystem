@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ten.Services.BookingAPI\Ten.Services.BookingAPI.csproj" />
     <ProjectReference Include="..\Ten.Services.BookingApplication\Ten.Services.BookingApplication.csproj" />
     <ProjectReference Include="..\Ten.Services.BookingDomain\Ten.Services.BookingDomain.csproj" />
     <ProjectReference Include="..\Ten.Services.BookingInfrastructure\Ten.Services.BookingInfrastructure.csproj" />
